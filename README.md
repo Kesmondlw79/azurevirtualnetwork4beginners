@@ -45,6 +45,9 @@ o	Once you're logged into the Azure Portal, look at the left-hand sidebar.
 
 o	Select "Create a resource"  icon at the top of the page.
 
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20Create%20a%20resource%20Icon.PNG?raw=true)
+
+
 
 
 
