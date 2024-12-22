@@ -35,6 +35,16 @@ Step 1: Go to the Azure Portal
 
 •	Sign in with your Microsoft account (you’ll need an Azure account to proceed; if you don’t have one, you can create a free trial account).
 
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20Portal.PNG?raw=true)
+
+Step 2: Create a Virtual Network (VNet)
+
+1.	Open the Portal Menu:
+   
+o	Once you're logged into the Azure Portal, look at the left-hand sidebar.
+
+o	Select "Create a resource"  icon at the top of the page.
+
 
 
 
