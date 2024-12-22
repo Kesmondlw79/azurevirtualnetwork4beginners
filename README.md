@@ -47,6 +47,18 @@ o	Select "Create a resource"  icon at the top of the page.
 
 ![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20Create%20a%20resource%20Icon.PNG?raw=true)
 
+2.	Search and Select Virtual Network:
+   
+o	In the search bar at the top, type "Virtual Network" and click on it when it appears in the list.
+
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20searchbar.PNG?raw=true)
+
+o	You will be directed to the Virtual Network creation page. Click on the "Virtual network" button. to start the process.
+
+
+o  Then click on "Create"
+
+
 
 
 
