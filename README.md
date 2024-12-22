@@ -55,6 +55,7 @@ o	In the search bar at the top, type "Virtual Network" and click on it when it a
 
 o	You will be directed to the Virtual Network creation page. Click on the "Virtual network" button. to start the process.
 
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900VNetworkPage.PNG?raw=true)
 
 o  Then click on "Create"
 
