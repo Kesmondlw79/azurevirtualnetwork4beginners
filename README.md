@@ -59,7 +59,32 @@ o	You will be directed to the Virtual Network creation page. Click on the "Virtu
 
 o  Then click on "Create"
 
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900Createbutton.PNG?raw=true)
 
+3.	Configure the VNet Settings: The Create Virtual Network page will appear with several tabs at the top. The tabs you’ll focus on are Basic, Security, IP Addresses, Tags, and Review + Create.
+o	Basic Tab: 
+
+ Project Details: 
+
+Subscription: Select your subscription (this is your billing account).
+
+Resource Group: Choose a resource group. You can create a new one or select an existing one. For simplicity, create a new resource group (e.g., "MyResourceGroup").
+
+Instance Details: 
+
+Virtual Network Name: Provide a name for your Virtual Network (e.g., "MyFirstVNet").
+
+Region: Select the region where you want to create the network (e.g., East US, West Europe).
+
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20VNet%20Create%20Window.PNG?raw=true)
+
+4.	Select the IP Addresses Tab:
+o	After completing the Basic tab, click on the IP Addresses tab at the top.
+o	Default Settings: Leave the default settings for the IP address unless you have a specific IP address range you want to use. By default, Azure will automatically assign an address space (e.g., 10.0.0.0/16).
+o	If you'd like to change the IP address, you can do so here.
+
+
+ 
 
 
 
