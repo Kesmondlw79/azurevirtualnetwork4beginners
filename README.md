@@ -79,9 +79,30 @@ Region: Select the region where you want to create the network (e.g., East US, W
 ![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20VNet%20Create%20Window.PNG?raw=true)
 
 4.	Select the IP Addresses Tab:
+   
 o	After completing the Basic tab, click on the IP Addresses tab at the top.
+
 o	Default Settings: Leave the default settings for the IP address unless you have a specific IP address range you want to use. By default, Azure will automatically assign an address space (e.g., 10.0.0.0/16).
+
 o	If you'd like to change the IP address, you can do so here.
+
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20VNET%20Address%20space.PNG?raw=true)
+
+Step 3: Add a Subnet to Your VNet
+
+1.	Add a Subnet:
+   
+o	Now, click on the "Subnets" section under the IP Addresses tab.
+
+o	Click on the "Add Subnet" button to create a new subnet. 
+
+o  Subnet Name: Give your subnet a name (e.g., "MySubnet").
+
+![Alt text](https://github.com/Kesmondlw79/azurevirtualnetwork4beginners/blob/main/AZ900%20VNET%20Subnet.PNG?raw=true)
+
+o  Subnet Address Range: Choose an IP range within the VNet’s address space (e.g., if your VNet is 10.0.0.0/16, you can create a subnet with 10.0.1.0/24).
+
+o	Once you've entered the details, click "Add" to create the subnet.
 
 
  
